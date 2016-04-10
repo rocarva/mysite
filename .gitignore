@@ -1,0 +1,6 @@
+app/
+GulpFile.js
+.idea
+nbproject
+package.json
+
