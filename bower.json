@@ -1,0 +1,12 @@
+{
+  "name": "MyProject",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "~*",
+    "font-awesome": "~*",
+    "fullpage.js": "~*",
+    "jquery": "~*",
+    "sweetalert": "~*",
+    "accordion":"~*"
+  }
+}
